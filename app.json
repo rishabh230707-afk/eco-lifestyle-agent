@@ -1,0 +1,15 @@
+{
+  "agent_name": "Eco Lifestyle Agent",
+  "description": "RAG-based Eco Lifestyle Agent built on IBM watsonx Orchestrate",
+  "model": "gpt-oss-120b",
+  "platform": "IBM watsonx Orchestrate",
+  "instructions": "REPLACE WITH your exported agent instructions from watsonx Orchestrate (Manage agents > Eco Lifestyle Agent > Behavior > Export).",
+  "welcome_message": "Welcome! I'm your Eco Lifestyle Agent \u2014 ask me anything about living more sustainably.",
+  "suggested_prompts": [
+    "How can I reduce plastic use at home?",
+    "What are eco-friendly travel options in my city?",
+    "How do I recycle e-waste near me?"
+  ],
+  "knowledge_base": "REPLACE WITH the list/description of your uploaded sustainability reference documents (recycling guidelines, government schemes, eco-product data, etc.).",
+  "note": "This is a starter placeholder. Export your actual agent configuration from IBM watsonx Orchestrate and replace this file before submitting."
+}
